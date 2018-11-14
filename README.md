@@ -1,6 +1,6 @@
-# Mobile Web Specialist Certification Course
+# Restaurant Reviews App Stage 1
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
+#### _Udacity Front End Developer Course Project 4_
 
 ## Project Overview: Stage 1
 
@@ -24,6 +24,8 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
 
+#Acknowledgements
 
+Thanks to stearruda for help in inspiring this work.
 
 # Restaurant-Reviews-App-Stage-1
